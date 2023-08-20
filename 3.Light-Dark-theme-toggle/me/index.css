@@ -1,0 +1,10 @@
+body{
+    background-color: white;
+    color: black;
+    padding: 15px;
+}
+
+.dark-mode{
+    background-color: black;
+    color: whitesmoke;
+}
